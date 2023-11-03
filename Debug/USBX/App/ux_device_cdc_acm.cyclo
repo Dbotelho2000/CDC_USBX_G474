@@ -1,0 +1,6 @@
+../USBX/App/ux_device_cdc_acm.c:74:6:USBD_CDC_ACM_Activate	1
+../USBX/App/ux_device_cdc_acm.c:93:6:USBD_CDC_ACM_Deactivate	1
+../USBX/App/ux_device_cdc_acm.c:108:6:USBD_CDC_ACM_ParameterChange	1
+../USBX/App/ux_device_cdc_acm.c:118:6:usbx_cdc_acm_read_thread_entry	4
+../USBX/App/ux_device_cdc_acm.c:151:6:usbx_cdc_acm_write_thread_entry	5
+../USBX/App/ux_device_cdc_acm.c:183:6:HAL_GPIO_EXTI_Callback	2
